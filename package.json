@@ -1,11 +1,11 @@
 {
   "name": "enchant",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "Easier integration with Enchant.com",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/vinay-enchant/enchant-node.git"
+    "url": "https://github.com/enchant/enchant-node.git"
   },
   "keywords": [
     "enchant",
@@ -15,7 +15,7 @@
   "author": "Vinay Sahni <vinay@enchant.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/vinay-enchant/enchant-node/issues"
+    "url": "https://github.com/enchant/enchant-node/issues"
   },
-  "homepage": "https://github.com/vinay-enchant/enchant-node#readme"
+  "homepage": "https://github.com/enchant/enchant-node"
 }
